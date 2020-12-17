@@ -1,2 +1,2 @@
 # dotfiles
-Dotfiles & random scripts for my linux / mac systems
+Dotfiles & random scripts for my unix systems
