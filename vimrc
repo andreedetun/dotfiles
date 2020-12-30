@@ -7,7 +7,7 @@ call plug#end()
 " Syntax and colorscheme settings
 syntax on
 colorscheme monokai
-
+set background=dark
 " Tab and indentation settings
 set tabstop=2
 set shiftwidth=2
@@ -22,5 +22,5 @@ set ruler
 set ai
 set number
 set laststatus=2 
-set updatetime=10
+set updatetime=100
 set noswapfile
