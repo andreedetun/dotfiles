@@ -8,6 +8,7 @@ call plug#end()
 syntax on
 colorscheme monokai
 set background=dark
+
 " Tab and indentation settings
 set tabstop=2
 set shiftwidth=2
