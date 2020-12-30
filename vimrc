@@ -22,4 +22,5 @@ set ruler
 set ai
 set number
 set laststatus=2 
-set updatetime=100
+set updatetime=10
+set noswapfile
